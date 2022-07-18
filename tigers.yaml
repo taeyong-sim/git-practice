@@ -12,3 +12,4 @@ members:
   - diff
   
  fetch: this
+ signed: yes
